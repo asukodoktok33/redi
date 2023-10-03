@@ -4,7 +4,7 @@
   <title></title>
 </head>
 <body>
-<script src="https://cdn-bimi.akamaized.net/mr/mobile-detect.min.js"></script> <script type="text/javascript">
+<script type="text/javascript">
 var md = new MobileDetect(window.navigator.userAgent);
 if (md.mobile() || md.tablet()) {
 var redirect = false;
